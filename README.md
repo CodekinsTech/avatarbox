@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/superorb.png" width="200" alt="AvatarBox mascot" />
+<img src="assets/mascot.png" width="220" alt="AvatarBox mascot" />
 
 # 🫧 AvatarBox
 
