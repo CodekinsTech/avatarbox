@@ -1,10 +1,14 @@
 <div align="center">
 
+<img src="assets/superorb.png" width="200" alt="AvatarBox mascot" />
+
 # 🫧 AvatarBox
 
 ### Your desktop comes alive — a 3D talking avatar companion that lives on your screen.
 
 **Chat by voice or text. Pick from 100+ anime & stylized avatars. Give them a personality, a voice, and a home on your desktop.**
+
+<img src="assets/demo.gif" width="520" alt="AvatarBox in action — a 3D avatar living on your desktop" />
 
 [**⬇️ Download for Mac & Windows →**](https://avatarbox.app)  ·  [Website](https://avatarbox.app)  ·  [Report an issue](../../issues)
 
