@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="assets/mascot.png" width="220" alt="AvatarBox mascot" />
+<img src="assets/mascot.png" width="240" alt="AvatarBox mascot" />
 
-<br/>
-
-<img src="assets/title.png" width="600" alt="AvatarBox — AI Companion" />
+<img src="assets/title.png" width="460" alt="AvatarBox — AI Companion" />
 
 ### Your desktop comes alive — a 3D talking avatar companion that lives on your screen.
 
