@@ -10,7 +10,7 @@
 
 <img src="assets/demo.gif" width="520" alt="AvatarBox in action — a 3D avatar living on your desktop" />
 
-[**⬇️ Download for Mac & Windows →**](https://avatarbox.app)  ·  [Website](https://avatarbox.app)  ·  [Report an issue](../../issues)
+[**⬇️ Download for Mac →**](https://pub-6759236445b44e818421ce57181069b6.r2.dev/AvatarBox.dmg)  ·  [All Releases](../../releases)  ·  [Website](https://avatarbox.app)  ·  [Report an issue](../../issues)
 
 ![status](https://img.shields.io/badge/platform-macOS%20%7C%20Windows-5B8FFF)
 ![status](https://img.shields.io/badge/avatars-100%2B-5B8FFF)
@@ -49,14 +49,12 @@ Think of it as a companion, an assistant, and a little bit of magic — all in o
 
 ## 🚀 Get AvatarBox
 
-The app is available as a signed, notarized download:
-
 | Platform | |
 |---|---|
-| 🍎 **macOS** (Apple Silicon) | [Download →](https://avatarbox.app) |
-| 🪟 **Windows** | [Download →](https://avatarbox.app) |
+| 🍎 **macOS** (Apple Silicon, notarized) | [**Download →**](https://pub-6759236445b44e818421ce57181069b6.r2.dev/AvatarBox.dmg) |
+| 🪟 **Windows** | Coming soon |
 
-> Visit **[avatarbox.app](https://avatarbox.app)** for the latest version and install instructions.
+> See all versions on the [**Releases page →**](../../releases)
 
 ## 💬 Feedback & ideas
 
