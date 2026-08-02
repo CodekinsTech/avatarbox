@@ -31,6 +31,8 @@
 
 AvatarBox puts a real, animated **3D character on your desktop** — one you can actually talk to. It listens, replies out loud in a natural voice, reacts with expressions and gestures, and can even perch on the edge of your windows while you work.
 
+It's not just a companion — it can control your desktop, automate your browser, message on WhatsApp, generate images, and narrate your coding sessions live alongside Claude, Cursor, and VS Code.
+
 Think of it as a companion, an assistant, and a little bit of magic — all in one small floating window.
 
 ## 🌟 Highlights
@@ -41,7 +43,13 @@ Think of it as a companion, an assistant, and a little bit of magic — all in o
 - 💖 **Personalities** — pick a companion, a witty buddy, a calm assistant, and more.
 - 🎙️ **Custom voices** — a growing library of natural TTS voices, including your own cloned voice.
 - 🪟 **Perch mode** — let your avatar sit on the edge of your windows and hang out while you work.
-- 🎨 **Beautiful, glassy UI** — a soft, modern glassmorphic design with themes.
+- 🖥️ **Desktop control** — open apps, adjust volume, lock screen, empty trash — all by voice or chat.
+- 🌐 **Browser automation** — the avatar can control and interact with your browser on your behalf.
+- 💬 **WhatsApp messaging** — send and receive WhatsApp messages through your avatar.
+- 🎨 **AI image generation** — generate images right from the chat window.
+- 🧑‍💻 **Coding narrator** — live voice companion while you code in VS Code, Cursor, or Claude Code.
+- 🎵 **WorkBox** — built-in focus mode with music player and YouTube to keep you in flow.
+- ✨ **Beautiful, glassy UI** — a soft, modern glassmorphic design with themes.
 - 🎬 **FunStudio & Prompter** — create, share, and explore in a built-in community space.
 - 🔒 **Private by design** — offline text-to-speech built in; your chats stay yours.
 
