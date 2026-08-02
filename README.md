@@ -8,7 +8,7 @@
 
 **Chat by voice or text. Pick from 100+ anime & stylized avatars. Give them a personality, a voice, and a home on your desktop.**
 
-<img src="assets/demo.gif" width="520" alt="AvatarBox in action — a 3D avatar living on your desktop" />
+<img src="assets/screenshot.png" width="720" alt="AvatarBox in action — a 3D avatar living on your desktop" />
 
 [**⬇️ Download for Mac →**](https://pub-6759236445b44e818421ce57181069b6.r2.dev/AvatarBox.dmg)  ·  [All Releases](../../releases)  ·  [Website](https://avatarbox.app)  ·  [Report an issue](../../issues)
 
