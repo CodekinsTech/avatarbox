@@ -17,11 +17,15 @@
 ![status](https://img.shields.io/badge/languages-31-5B8FFF)
 ![status](https://img.shields.io/badge/license-Proprietary-lightgrey)
 
+---
+
+**⭐ If AvatarBox made you smile, hit the Star button — it helps others discover it!**
+
 </div>
 
 ---
 
-> **Note:** This is the public home of AvatarBox. The app itself is a polished, closed-source product — grab it from **[avatarbox.app](https://avatarbox.app)**. This repository is for the story, the screenshots, and your feedback. ⭐ Star it if you like what you see!
+> **Note:** This is the public home of AvatarBox. The app itself is a polished, closed-source product — grab it from **[avatarbox.app](https://avatarbox.app)**. This repository is for the story, the screenshots, and your feedback.
 
 ---
 
